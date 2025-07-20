@@ -12,7 +12,8 @@ Este projeto tem como objetivo fornecer recursos educacionais para estudantes de
 
 🔢 Material de apoio para revisão
 
-🎯 Objetivo
+# 🎯 Objetivo
+
 Ajudar estudantes a dominar os conceitos fundamentais de Pré-Cálculo, que são essenciais para disciplinas como Cálculo Diferencial e Integral, Álgebra Linear e Física.
 
 # 📂 Conteúdo Abordado
@@ -20,7 +21,7 @@ Ajudar estudantes a dominar os conceitos fundamentais de Pré-Cálculo, que são
 ✔️ Conjuntos <br>
 ✔️ Conjuntos Numéricos <br>
 ✔️ Frações <br>
-✔️ Álgebra Básica (potênciação, radiciação, produtos notáveis, etc)
+✔️ Álgebra Básica (potênciação, radiciação, produtos notáveis, etc) <br>
 ✔️ Funções e seus tipos (lineares, quadráticas, exponenciais, logarítmicas) <br>
 ✔️ Trigonometria (ciclo trigonométrico, identidades, leis do seno e cosseno)  <br>
 ✔️ Gráficos <br>
