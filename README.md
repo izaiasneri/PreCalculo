@@ -17,10 +17,10 @@ Ajudar estudantes a dominar os conceitos fundamentais de Pré-Cálculo, que são
 
 # 📂 Conteúdo Abordado
 
-✔️ Conjuntos
-✔️ Conjuntos Numéricos
-✔️ Frações 
+✔️ Conjuntos <br>
+✔️ Conjuntos Numéricos <br>
+✔️ Frações <br>
 ✔️ Álgebra Básica (potênciação, radiciação, produtos notáveis, etc)
 ✔️ Funções e seus tipos (lineares, quadráticas, exponenciais, logarítmicas) <br>
 ✔️ Trigonometria (ciclo trigonométrico, identidades, leis do seno e cosseno)  <br>
-✔️ Gráficos
+✔️ Gráficos <br>
